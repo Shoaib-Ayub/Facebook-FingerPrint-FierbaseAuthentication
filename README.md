@@ -12,4 +12,4 @@
   - Facebook credentials linked to Firebase Authentication
   - Real-time sign-in state management
 
-- 🎯 Clean UI using **GetX Navigation** and proper error handling
+-  **GetX Navigation**clean Architecture 
