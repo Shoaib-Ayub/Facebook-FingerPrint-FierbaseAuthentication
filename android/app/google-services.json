@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458843148661",
+    "project_id": "facebook-github-fingerprint",
+    "storage_bucket": "facebook-github-fingerprint.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458843148661:android:95a2565593c57abe42c33c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_facebook_fingerprint_github_authencation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVYvU3Q0Zp44dJ0NGtWezKKXkhJREsFjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
